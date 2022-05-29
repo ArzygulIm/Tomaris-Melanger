@@ -1,0 +1,136 @@
+.homepage{
+    margin: 0 auto;
+    padding: 100px ;
+}
+.homepage-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+    width: 500px;
+    margin-right: 50px;
+}
+.hotels__box{
+    margin-bottom: 100px;
+    border: 2px solid #446DF6;
+    box-shadow: 0px 16px 20px rgba(20, 27, 65, 0.03);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px 15px;
+}
+.hotels__box img{
+    width: 300px;
+    height: 220px;
+    margin-bottom: 20px;
+}
+.hotels__box h6{
+    font-family: 'Alatsi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 140%;
+    color: #141B41;
+    margin-bottom: 20px;
+}
+.hotels__box p{
+    font-family: 'Alata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #72727E;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.city-info h5{
+    font-family: 'Alatsi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 140%;
+    color: #141B41;
+    margin-bottom: 25px;
+}
+.city-info p{
+    width: 710px;
+    font-family: 'Alata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #72727E;
+
+}
+.transport__wrap h4{
+    font-family: 'Alatsi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 110%;
+    color: #141B41;
+    margin-bottom: 30px;
+
+}
+.transport__wrap h5{
+    font-family: 'Alatsi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 135%;
+    color: #141B41;
+    margin-bottom: 20px;
+}
+.transport__wrap h6{
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 140%;
+    color: #72727E;
+    margin-bottom: 10px;
+}
+.transport__wrap p{
+    font-family: 'Alata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 135%;
+    color: #72727E;
+    margin: 10px;
+}
+.transport__wrap div{
+    margin-bottom: 30px;
+}
+.transport__wrap button{
+    background: #446DF6;
+    border-radius: 6px;
+    padding: 15px 30px;
+    font-family: 'Alatsi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #EEEEEE;
+    border: none;
+
+}
+.hotels__box button{
+    background: #446DF6;
+    border-radius: 6px;
+    padding: 15px 30px;
+    font-family: 'Alatsi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #EEEEEE;
+    border: none;
+
+}
+.translator{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,78 @@
+#registration{
+    padding: 20px;
+}
+.close{
+    position: absolute;
+    right: 20px;
+    background: transparent;
+    border: none;
+}
+.registration__wrap{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#registration h5{
+    width: 391px;
+    font-family: 'Alatsi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 125%;
+    text-align: center;
+    color: #141B41;
+    margin-bottom: 75px;
+}
+.reg-wrap{
+    width: 400px;
+    height: 64px;
+    border: 1px solid #E9ECF5;
+    border-radius: 10px;
+    padding: 0px 0px 0px 24px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.reg-wrap img{
+    margin-right: 25px;
+}
+.reg-wrap input{
+    border: none;
+    border-left: 1px solid #E9ECF5;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    text-indent: 20px;
+}
+.reg-wrap input::placeholder{
+    font-family: 'Alata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 125%;
+    color: #C0C0C0;
+}
+.checkbox{
+    width: 24px;
+    height: 24px;
+    left: 40px;
+    top: 521px;
+    border: 1px solid #E9ECF5;
+    border-radius: 6px;
+    margin-right: 15px;
+}
+.checkbox__wrap{
+    display: flex;
+    align-items: center;
+    margin-bottom: 18px;
+}
+.checkbox__wrap span{
+    font-family: 'Alata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 125%;
+    color: #72727E;
+}
